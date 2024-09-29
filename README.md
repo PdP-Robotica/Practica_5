@@ -79,6 +79,26 @@ Pass u1, u2, u3
 Home
 Motor Off
 Fend
+```
+
+7. Una vez generado el código, realizaremos la ejecución de este para ver al robot escribir la palabra.
+
+## Video de ejecución de práctica
+
+https://github.com/user-attachments/assets/99d11b52-85ac-4af1-8606-6067e993f0de
+
+## Conclusión:
+- **Luis Fernando Duarte Reséndiz**
+
+  
+- **Mauricio Alberto Gómez Arroyo**
+
+  
+- **Diego Brandon Guzmán Sierra**
+
+  
+- **Bryan Hiadim Vera Hernández**
+
 
 
 
