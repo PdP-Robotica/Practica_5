@@ -89,17 +89,13 @@ https://github.com/user-attachments/assets/99d11b52-85ac-4af1-8606-6067e993f0de
 
 ## Conclusión:
 - **Luis Fernando Duarte Reséndiz**
-
+La práctica me permitió entender en profundidad cómo los comandos de movimiento del robot afectan su desempeño. Aprendí a programar secuencias específicas para realizar tareas complejas, lo que mejoró mi habilidad para trabajar con robots y sistemas automatizados.
   
 - **Mauricio Alberto Gómez Arroyo**
-
+ A través de la ejecución del código, pude apreciar la importancia de la calibración y la precisión en la robótica. Observé cómo pequeños errores en la programación pueden afectar el resultado final, lo que me enseñó la necesidad de atención al detalle en proyectos de automatización.
   
 - **Diego Brandon Guzmán Sierra**
-
+La experiencia de observar al robot escribir la palabra "MIAU" fue muy gratificante. Me di cuenta de la capacidad del Epson C4 para realizar tareas que requieren destreza manual, lo que resalta su potencial en aplicaciones industriales y educativas, inspirándome a explorar más sobre la robótica.
   
 - **Bryan Hiadim Vera Hernández**
-
-
-
-
- 
+Trabajar en equipo durante esta práctica me enseñó la importancia de la colaboración y la comunicación en proyectos técnicos. Compartir ideas y resolver problemas en conjunto facilitó el proceso de programación, y me ayudó a apreciar la diversidad de habilidades que cada miembro aporta a un proyecto.
