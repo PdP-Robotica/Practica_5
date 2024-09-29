@@ -18,3 +18,10 @@ El robot utiliza diferentes tipos de movimientos, como:
 - Interpolación circular: Este tipo de movimiento es útil para dibujar curvas o círculos, permitiendo al Epson C4 seguir trayectorias circulares suaves.
   
 Al programar el brazo para escribir en el suelo, se puede integrar una herramienta de escritura (como un marcador o una tiza) en su extremo, y mediante la programación adecuada, el Epson C4 puede trazar letras, símbolos o cualquier patrón requerido. Su precisión y capacidad para seguir trayectorias complejas le permiten realizar esta tarea con gran exactitud, haciendo uso de todos sus tipos de movimiento para adaptarse a los requerimientos específicos del diseño.
+
+## Instrucciones.
+1. El primmer paso para la elaboración de la practica es abrir el programa de EPSON RC+ y creamos un nuevo proyecto.
+![image](https://github.com/user-attachments/assets/dc677feb-714c-4519-8ccb-f15b9da0af6d)
+
+2. 
+3. 
