@@ -99,3 +99,8 @@ La experiencia de observar al robot escribir la palabra "MIAU" fue muy gratifica
   
 - **Bryan Hiadim Vera Hernández**
 Trabajar en equipo durante esta práctica me enseñó la importancia de la colaboración y la comunicación en proyectos técnicos. Compartir ideas y resolver problemas en conjunto facilitó el proceso de programación, y me ayudó a apreciar la diversidad de habilidades que cada miembro aporta a un proyecto.
+
+## Referencias
+[1] De proyectos, A. y. D. (s/f). Manual del usuario. Epson.com. Recuperado de https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
+
+[2] Robot Epson C4 de 6 ejes compactos. (s. f.). Productos | Epson México. https://epson.com.mx/Para-el-trabajo/Rob%C3%B3tica/6-Ejes/Robot-Epson-C4-de-6-ejes-compactos/p/RC4-A601ST75
